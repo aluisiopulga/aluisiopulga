@@ -7,7 +7,7 @@ mission-critical web platforms — mostly in public health and scientific resear
 - **Drupal 6 → 11**: architecture, custom modules, migrations (D7 → D10/11), Drush, Composer
 - **Harvard Dataverse**: installation, upgrades, UI customization, API integrations,
   metadata (DataCite, DDI, Dublin Core), FAIR principles
-- **Artificial intelligence**: AI agents for Drupal through the Model Context Protocol (MCP),
+- **Artificial intelligence**: AI agents for Drupal and Dataverse through the Model Context Protocol (MCP),
   the Drupal AI module and Tool API; AI-assisted engineering with Claude Code
 - **Data pipelines**: REST API ingestion from OJS and SciELO, deduplication, Drupal Feeds
 - **Stack**: PHP · Symfony components · MySQL/MariaDB · PostgreSQL · Solr · Elasticsearch · Docker · Git
@@ -19,6 +19,9 @@ mission-critical web platforms — mostly in public health and scientific resear
 - 💼 Built a custom financial ERP on Drupal 10 (2,000+ monthly transactions, full audit trails)
 
 ### Open source
+- 🗄️ [dataverse-curator-mcp](https://github.com/aluisiopulga/dataverse-curator-mcp) —
+  AI assistant for Dataverse curators: lets Claude search datasets, review metadata against
+  FAIR and CoreTrustSeal expectations, report on collections and draft unpublished datasets
 - 🤖 [drupal-content-assistant](https://github.com/aluisiopulga/drupal-content-assistant) —
   AI agents for Drupal: lets Claude (via MCP) and Drupal AI chatbots search, count and draft
   site content through safe, permission-checked tools
