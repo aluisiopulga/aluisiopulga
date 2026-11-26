@@ -13,8 +13,8 @@ mission-critical web platforms — mostly in public health and scientific resear
 - **Stack**: PHP · Symfony components · MySQL/MariaDB · PostgreSQL · Solr · Elasticsearch · Docker · Git
 
 ### Highlights
-- 🏅 Technical lead for **Arca Dados (Fiocruz)**, the first CoreTrustSeal-certified
-  research data repository in Brazil and Latin America (2024)
+- 🏅 Part of the team behind **Arca Dados (Fiocruz)**, the first CoreTrustSeal-certified
+  research data repository in Brazil and Latin America (2024); built its whole front end
 - 📚 Migrated Fiocruz's journals portal to Drupal 10/11, syncing 24,578 articles from OJS & SciELO
 - 💼 Built a custom financial ERP on Drupal 10 (2,000+ monthly transactions, full audit trails)
 
